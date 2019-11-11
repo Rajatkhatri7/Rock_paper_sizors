@@ -1,7 +1,7 @@
 # Rock_paper_sizors
 
 
-[](image/heroimg.ddffaa34.png)
+![](heroimg.ddffaa34.png)
 
 
 
