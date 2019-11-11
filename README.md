@@ -10,5 +10,9 @@ So lets play with computer.
 
 
 
+
+
+
+
 Its my first experiance with Tkinter. Its a library to design gui's
 
